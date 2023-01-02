@@ -1,6 +1,6 @@
 # 사인 함수를 3차 다항식의 계수를 이용해서 예측하는 문제
 
-# 알고리즘: MLP
+# 알고리즘: MLP (Multi-Layer Perceptron)
 # 문제유형: 회귀
 # 평가지표: 평균 제곱 오차
 # 주요 패키지: torch, torch.nn
