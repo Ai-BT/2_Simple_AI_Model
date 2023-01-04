@@ -1,7 +1,5 @@
-"""
-Author : Byunghyun Ban
-Date : 2020.07.24.
-"""
+# %%
+
 from tensorflow import keras
 import data_reader
 
@@ -32,3 +30,5 @@ history = model.fit(dr.train_X, dr.train_Y, epochs=EPOCHS, batch_size=5,
 
 # 학습 결과를 그래프로 출력합니다.
 data_reader.draw_graph(history)
+
+# %%

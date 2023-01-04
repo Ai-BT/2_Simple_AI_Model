@@ -1,7 +1,3 @@
-"""
-Author : Byunghyun Ban
-Date : 2020.07.17.
-"""
 import os
 import random
 
