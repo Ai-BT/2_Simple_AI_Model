@@ -4,3 +4,11 @@ ai_01/MNIST/raw/t10k-labels-idx1-ubyte
 ai_01/MNIST/raw/train-images-idx3-ubyte
 ai_01/MNIST/raw/train-labels-idx1-ubyte
 *.pth
+ai_01/cifar-10-batches-py/batches.meta
+ai_01/cifar-10-batches-py/data_batch_1
+ai_01/cifar-10-batches-py/data_batch_2
+ai_01/cifar-10-batches-py/data_batch_3
+ai_01/cifar-10-batches-py/data_batch_4
+ai_01/cifar-10-batches-py/data_batch_5
+ai_01/cifar-10-batches-py/readme.html
+ai_01/cifar-10-batches-py/test_batch
